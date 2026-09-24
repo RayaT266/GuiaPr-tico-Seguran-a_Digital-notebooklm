@@ -8,7 +8,7 @@ Bem-vindo ao repositório do **Guia Prático de Segurança Digital**! Este proje
 
 Você pode explorar as fontes originais, ouvir resumos em áudio e fazer perguntas personalizadas diretamente no caderno interativo do projeto:
 
-👉 **[Acessar o Caderno no Gemini Notebook](COLE_O_LINK_DO_SEU_CADERNO_AQUI)**
+👉 **[Acessar o Caderno no Gemini Notebook](https://notebook.google.com/notebook/4cd7fca4-a45a-4116-8a57-5de3c7fe91d2)**
 
 ---
 
