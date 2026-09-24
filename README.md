@@ -27,7 +27,11 @@ Organizamos o conteúdo de forma modular para facilitar a consulta rápida e a n
 │   └── comandos-seguranca-terminal.md      # Guia aplicado de comandos úteis para o terminal
 └── 📄 README.md                            # Documentação principal e visão geral do projeto
 ```
+## 📓 Caderno Interativo
 
+Você pode acessar o caderno interativo deste projeto para consultar as fontes originais, ouvir resumos em áudio e fazer perguntas ao assistente de IA:
+
+👉 **[Acessar o Guia no Gemini Notebook](https://notebook.google.com/notebook/4cd7fca4-a45a-4116-8a57-5de3c7fe91d2)**
 ---
 
 ## 💻 Sobre o Tutorial de Comandos de Terminal
