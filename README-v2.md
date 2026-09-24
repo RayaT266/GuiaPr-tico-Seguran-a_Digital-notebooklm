@@ -32,7 +32,7 @@ Organizamos o conteúdo de forma modular para facilitar a consulta rápida e a n
 ├── 📘 guia/
 │   └── guia-pratico-seguranca-digital.md   # Material teórico e didático focado em prevenção e higiene digital
 ├── 💻 tutorial-terminal/
-│   └── comandos-seguranca-terminal.md      # Guia aplicado de comandos úteis para o terminal
+│   └── comandos-seguranca-terminal-.md      # Guia aplicado de comandos úteis para o terminal
 └── 📄 README.md                            # Documentação principal e visão geral do projeto
 ```
 
@@ -52,7 +52,7 @@ Você encontrará comandos essenciais para:
 ## 🚀 Como Utilizar
 
 1. **Acessar o Caderno Interativo:**
-   Abra o [Gemini Notebook do Projeto](COLE_O_LINK_DO_SEU_CADERNO_AQUI) para consultar as fontes e usar o assistente de IA.
+   Abra o [Gemini Notebook do Projeto](https://notebook.google.com/notebook/4cd7fca4-a45a-4116-8a57-5de3c7fe91d2) para consultar as fontes e usar o assistente de IA.
 
 2. **Clonar o Repositório:**
    ```bash
@@ -61,10 +61,10 @@ Você encontrará comandos essenciais para:
    ```
 
 3. **Explorar o Guia Teórico:**
-   Navegue até a pasta [`/guia`](./guia) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital.
+   Navegue até a pasta [`GuiaPr-tico-Seguran-a_Digital-notebooklm`](.GuiaPr-tico-Seguran-a_Digital-notebooklm) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital.
 
 4. **Praticar no Terminal:**
-   Acesse a pasta [`/tutorial-terminal`](./tutorial-terminal) para experimentar os comandos práticos em seu ambiente de testes.
+   Acesse a pasta [`/comandos-seguranca-terminal-.md`](./comandos-seguranca-terminal-.md) para experimentar os comandos práticos em seu ambiente de testes.
 
 ---
 
