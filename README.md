@@ -1,73 +1,80 @@
 # 🛡️ Guia Prático de Segurança Digital
 
-Bem-vindo ao repositório do **Guia Prático de Segurança Digital**! Este projeto foi desenvolvido para capacitar usuários, estudantes e profissionais no entendimento dos riscos cibernéticos modernos e na adoção de medidas de prevenção eficazes [103, 118].
+Bem-vindo ao repositório do **Guia Prático de Segurança Digital**! Este projeto foi desenvolvido para capacitar usuários, estudantes e profissionais no entendimento dos riscos cibernéticos modernos e na adoção de medidas de prevenção eficazes.
 
 ---
 
-## 🎯 Objetivos do Projetos
+## 📓 Caderno Interativo
 
-O objetivo principal deste projeto é desmistificar a segurança cibernética e oferecer recursos práticos para a proteção contínua de dados e sistemas [103, 107]. Ao explorar este material, você aprenderá a:
+Você pode explorar as fontes originais, ouvir resumos em áudio e fazer perguntas personalizadas diretamente no caderno interativo do projeto:
 
-* **Compreender Riscos e Ameaças:** Identificar e previr ataques comuns, como *phishing*, engenharia social e sequestro de dados (*ransomware*) [106, 118].
-* **Adotar a Higiene Digital:** Implementar autenticação forte (2FA/MFA), gestão robusta de senhas, rotinas de backup e atualizações de software [105, 107, 186, 235].
-* **Desenvolver Consciência Situacional:** Aplicar modelos mentais e hábitos preventivos no uso diário da tecnologia [6, 8, 18].
-* **Executar Comandos Práticos:** Utilizar o terminal para auditorias simples, verificação de redes e gestão de segurança [134, 250].
+👉 **[Acessar o Caderno no Gemini Notebook](https://notebook.google.com/notebook/4cd7fca4-a45a-4116-8a57-5de3c7fe91d2)**
+
+---
+
+## 🎯 Objetivos do Projeto
+
+O objetivo principal deste projeto é desmistificar a segurança cibernética e oferecer recursos práticos para a proteção contínua de dados e sistemas. Ao explorar este material, você aprenderá a:
+
+* **Compreender Riscos e Ameaças:** Identificar e prevenir ataques comuns, como *phishing*, engenharia social e sequestro de dados (*ransomware*).
+* **Adotar a Higiene Digital:** Implementar autenticação forte (2FA/MFA), gestão robusta de senhas, rotinas de backup e atualizações de software.
+* **Desenvolver Consciência Situacional:** Aplicar modelos mentais e hábitos preventivos no uso diário da tecnologia.
+* **Executar Comandos Práticos:** Utilizar o terminal para auditorias simples, verificação de redes e gestão de segurança.
 
 ---
 
 ## 📁 Estrutura do Repositório
 
-Organizamos o conteúdo de forma modular para facilitar a consulta rápida e a navegação [104]:
+Organizamos o conteúdo de forma modular para facilitar a consulta rápida e a navegação:
 
 ```text
 .
 ├── 📘 guia/
 │   └── guia-pratico-seguranca-digital.md   # Material teórico e didático focado em prevenção e higiene digital
 ├── 💻 tutorial-terminal/
-│   └── comandos-seguranca-terminal.md      # Guia aplicado de comandos úteis para o terminal
+│   └── comandos-seguranca-terminal-.md      # Guia aplicado de comandos úteis para o terminal
 └── 📄 README.md                            # Documentação principal e visão geral do projeto
 ```
-## 📓 Caderno Interativo
 
-Você pode acessar o caderno interativo deste projeto para consultar as fontes originais, ouvir resumos em áudio e fazer perguntas ao assistente de IA:
-
-👉 **[Acessar o Guia no Gemini Notebook](https://notebook.google.com/notebook/4cd7fca4-a45a-4116-8a57-5de3c7fe91d2)**
 ---
 
 ## 💻 Sobre o Tutorial de Comandos de Terminal
 
-O **Tutorial de Comandos Práticos de Terminal** serve como complemento técnico e aplicado ao guia teórico [134]. Nele, os conceitos de prevenção ganham forma por meio de instruções práticas e utilitários de linha de comando [134, 250].
+O **Tutorial de Comandos Práticos de Terminal** serve como complemento técnico e aplicado ao guia teórico. Nele, os conceitos de prevenção ganham forma por meio de instruções práticas e utilitários de linha de comando.
 
 Você encontrará comandos essenciais para:
-* **Análise de Redes e Portas:** Checagem de conexões ativas e portas abertas no sistema [134].
-* **Gestão de Processos e Usuários:** Verificação de permissões e monitoramento de recursos em tempo de execução [33, 208].
-* **Auditoria de Arquivos e Integridade:** Cálculo de *hashes* de arquivos e verificação de logs de segurança [250].
+* **Análise de Redes e Portas:** Checagem de conexões ativas e portas abertas no sistema.
+* **Gestão de Processos e Usuários:** Verificação de permissões e monitoramento de recursos em tempo de execução.
+* **Auditoria de Arquivos e Integridade:** Cálculo de *hashes* de arquivos e verificação de logs de segurança.
 
 ---
 
 ## 🚀 Como Utilizar
 
-1. **Clonar o Repositório:**
+1. **Acessar o Caderno Interativo:**
+   Abra o [Gemini Notebook do Projeto](https://notebook.google.com/notebook/4cd7fca4-a45a-4116-8a57-5de3c7fe91d2) para consultar as fontes e usar o assistente de IA.
+
+2. **Clonar o Repositório:**
    ```bash
    git clone https://github.com/seu-usuario/guia-seguranca-digital.git
    cd guia-seguranca-digital
    ```
 
-2. **Explorar o Guia Teórico:**
-   Navegue até a pasta [`/guia`](./guia) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital [103].
+3. **Explorar o Guia Teórico:**
+   Navegue até a pasta [`GuiaPr-tico-Seguran-a_Digital-notebooklm`](.GuiaPr-tico-Seguran-a_Digital-notebooklm) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital.
 
-3. **Praticar no Terminal:**
-   Acesse a pasta [`/tutorial-terminal`](./tutorial-terminal) para experimentar os comandos práticos em seu ambiente de testes [134].
+4. **Praticar no Terminal:**
+   Acesse a pasta [`/comandos-seguranca-terminal-.md`](./comandos-seguranca-terminal-.md) para experimentar os comandos práticos em seu ambiente de testes.
 
 ---
 
 ## 👥 Público-Alvo
 
-Este repositório foi construído para atender a diferentes perfis de leitores:
+Este repositório foi built para atender a diferentes perfis de leitores:
 
-* **Usuários Comuns e Iniciantes:** Pessoas que desejam proteger suas finanças, senhas e informações pessoais contra golpes virtuais [103, 104].
-* **Estudantes e Entusiastas de TI:** Pessoas interessadas em aprender na prática a relação entre cibersegurança e linha de comando [131, 134].
-* **Profissionais e Multiplicadores:** Educadores e gestores de TI que buscam material de apoio para campanhas de conscientização [254, 263].
+* **Usuários Comuns e Iniciantes:** Pessoas que desejam proteger suas finanças, senhas e informações pessoais contra golpes virtuais.
+* **Estudantes e Entusiastas de TI:** Pessoas interessadas em aprender na prática a relação entre cibersegurança e linha de comando.
+* **Profissionais e Multiplicadores:** Educadores e gestores de TI que buscam material de apoio para campanhas de conscientização.
 
 ---
 
