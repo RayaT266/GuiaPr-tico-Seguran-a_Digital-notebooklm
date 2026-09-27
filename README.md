@@ -30,7 +30,7 @@ Organizamos o conteúdo de forma modular para facilitar a consulta rápida e a n
 ```text
 .
 ├── 📘 guia/
-│   └── guia-pratico-seguranca-digital.md   # Material teórico e didático focado em prevenção e higiene digital
+│   └── Pequenos_Hábitos,Grande_Proteção_Digital.pdf   # Material teórico e didático focado em prevenção e higiene digital
 ├── 💻 tutorial-terminal/
 │   └── comandos-seguranca-terminal-.md      # Guia aplicado de comandos úteis para o terminal
 └── 📄 README.md                            # Documentação principal e visão geral do projeto
@@ -61,7 +61,7 @@ Você encontrará comandos essenciais para:
    ```
 
 3. **Explorar o Guia Teórico:**
-   Navegue até a pasta [`GuiaPr-tico-Seguran-a_Digital-notebooklm`](.GuiaPr-tico-Seguran-a_Digital-notebooklm) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital.
+   Navegue até a pasta [`GuiaPr-tico-Seguran-a_Digital-notebooklm`](./PequenosHábitos,GrandeProteçãoDigital.pdf) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital.
 
 4. **Praticar no Terminal:**
    Acesse a pasta [`/comandos-seguranca-terminal-.md`](./comandos-seguranca-terminal-.md) para experimentar os comandos práticos em seu ambiente de testes.
