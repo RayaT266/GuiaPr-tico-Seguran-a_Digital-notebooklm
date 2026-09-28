@@ -61,7 +61,7 @@ Você encontrará comandos essenciais para:
    ```
 
 3. **Explorar o Guia Teórico:**
-   Navegue até a pasta [`GuiaPr-tico-Seguran-a_Digital-notebooklm`](./PequenosHábitos,GrandeProteçãoDigital.pdf) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital.
+   Navegue até a pasta [`Pequenos_Hábitos,Grande_Proteção_Digital`](./https://github.com/RayaT266/GuiaPr-tico-Seguran-a_Digital-notebooklm/blob/c36ce40e0833d277d6291457ffc37c2c47e4dc71/Pequenos%20H%C3%A1bitos%2C%20Grande%20Prote%C3%A7%C3%A3o%20Digital.pdf) e leia o material didático para entender os fundamentos e as melhores práticas de autoproteção digital.
 
 4. **Praticar no Terminal:**
    Acesse a pasta [`/comandos-seguranca-terminal-.md`](./comandos-seguranca-terminal-.md) para experimentar os comandos práticos em seu ambiente de testes.
